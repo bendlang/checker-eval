@@ -1,0 +1,202 @@
+[
+ {
+  "task": "cake.arena_carve.bend",
+  "pass": true,
+  "why": null,
+  "secs": 19,
+  "cost_api_usd": 0.12535179999999999,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "cake.journey_count.bend",
+  "pass": true,
+  "why": null,
+  "secs": 39,
+  "cost_api_usd": 0.17985980000000001,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "cake.queue_prefix.bend",
+  "pass": true,
+  "why": null,
+  "secs": 26,
+  "cost_api_usd": 0.21001400000000003,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "cake.theme_mirror.bend",
+  "pass": true,
+  "why": null,
+  "secs": 20,
+  "cost_api_usd": 0.12753720000000002,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "easy.cursor_pages_full.bend",
+  "pass": true,
+  "why": null,
+  "secs": 53,
+  "cost_api_usd": 0.30329720000000004,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "easy.inventory_pruning.bend",
+  "pass": true,
+  "why": null,
+  "secs": 42,
+  "cost_api_usd": 0.2052928,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "easy.postfix_bijection.bend",
+  "pass": true,
+  "why": null,
+  "secs": 76,
+  "cost_api_usd": 0.3664038,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "easy.stack_split_merge.bend",
+  "pass": true,
+  "why": null,
+  "secs": 68,
+  "cost_api_usd": 0.3691344,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "firm.conservation_timeline.bend",
+  "pass": true,
+  "why": null,
+  "secs": 58,
+  "cost_api_usd": 0.2934862,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "firm.looper_cancellation.bend",
+  "pass": true,
+  "why": null,
+  "secs": 159,
+  "cost_api_usd": 0.6158551999999999,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "firm.pomodoro_tally.bend",
+  "pass": true,
+  "why": null,
+  "secs": 229,
+  "cost_api_usd": 0.6731813999999999,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "firm.tictactoe_undo.bend",
+  "pass": true,
+  "why": null,
+  "secs": 72,
+  "cost_api_usd": 0.328898,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hard.audit_undo.bend",
+  "pass": true,
+  "why": null,
+  "secs": 309,
+  "cost_api_usd": 1.4682392,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hard.factor_power_reduce.bend",
+  "pass": true,
+  "why": null,
+  "secs": 401,
+  "cost_api_usd": 1.9210508,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hard.protocol_equivalence.bend",
+  "pass": true,
+  "why": null,
+  "secs": 428,
+  "cost_api_usd": 1.7721365999999998,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hard.resource_certificate.bend",
+  "pass": true,
+  "why": null,
+  "secs": 177,
+  "cost_api_usd": 0.9375272,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hell.avl_leaderboard.bend",
+  "pass": true,
+  "why": null,
+  "secs": 369,
+  "cost_api_usd": 1.650861,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hell.combinator_confluence.bend",
+  "pass": true,
+  "why": null,
+  "secs": 544,
+  "cost_api_usd": 2.084761399999999,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hell.glob_backtrack_match.bend",
+  "pass": true,
+  "why": null,
+  "secs": 442,
+  "cost_api_usd": 2.1297872,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ },
+ {
+  "task": "hell.loop_normalization.bend",
+  "pass": true,
+  "why": null,
+  "secs": 636,
+  "cost_api_usd": 2.4734318,
+  "verdict": [
+   "ALL PROOFS CHECK"
+  ]
+ }
+]

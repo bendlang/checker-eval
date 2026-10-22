@@ -1,0 +1,202 @@
+[
+ {
+  "task": "cake.arena_carve.bend",
+  "pass": false,
+  "why": null,
+  "secs": 24,
+  "cost_api_usd": 0.057809400000000004,
+  "verdict": [
+   "32 |   match k:"
+  ]
+ },
+ {
+  "task": "cake.journey_count.bend",
+  "pass": false,
+  "why": null,
+  "secs": 34,
+  "cost_api_usd": 0.08151739999999999,
+  "verdict": [
+   "33 |   match a:"
+  ]
+ },
+ {
+  "task": "cake.queue_prefix.bend",
+  "pass": false,
+  "why": null,
+  "secs": 25,
+  "cost_api_usd": 0.0697494,
+  "verdict": [
+   "38 |   match xs:"
+  ]
+ },
+ {
+  "task": "cake.theme_mirror.bend",
+  "pass": false,
+  "why": null,
+  "secs": 21,
+  "cost_api_usd": 0.0605214,
+  "verdict": [
+   "74 |   mirror_replay_go(xs, s)"
+  ]
+ },
+ {
+  "task": "easy.cursor_pages_full.bend",
+  "pass": false,
+  "why": null,
+  "secs": 107,
+  "cost_api_usd": 0.2394934,
+  "verdict": [
+   "114 |         case Some{c}:"
+  ]
+ },
+ {
+  "task": "easy.inventory_pruning.bend",
+  "pass": false,
+  "why": null,
+  "secs": 46,
+  "cost_api_usd": 0.1158454,
+  "verdict": [
+   "54 |"
+  ]
+ },
+ {
+  "task": "easy.postfix_bijection.bend",
+  "pass": false,
+  "why": null,
+  "secs": 162,
+  "cost_api_usd": 0.3626268,
+  "verdict": [
+   "65 |   match t:"
+  ]
+ },
+ {
+  "task": "easy.stack_split_merge.bend",
+  "pass": false,
+  "why": null,
+  "secs": 231,
+  "cost_api_usd": 0.5161747999999999,
+  "verdict": [
+   "69 |"
+  ]
+ },
+ {
+  "task": "firm.conservation_timeline.bend",
+  "pass": false,
+  "why": null,
+  "secs": 58,
+  "cost_api_usd": 0.1384988,
+  "verdict": [
+   "53 |   match xs:"
+  ]
+ },
+ {
+  "task": "firm.looper_cancellation.bend",
+  "pass": false,
+  "why": null,
+  "secs": 395,
+  "cost_api_usd": 0.8668668,
+  "verdict": [
+   "77 |       absurd e"
+  ]
+ },
+ {
+  "task": "firm.pomodoro_tally.bend",
+  "pass": false,
+  "why": null,
+  "secs": 164,
+  "cost_api_usd": 0.3710988,
+  "verdict": [
+   "144 |     case Work{+m} <> t:"
+  ]
+ },
+ {
+  "task": "firm.tictactoe_undo.bend",
+  "pass": false,
+  "why": null,
+  "secs": 364,
+  "cost_api_usd": 0.8061508000000001,
+  "verdict": [
+   "189 |   match p:"
+  ]
+ },
+ {
+  "task": "hard.audit_undo.bend",
+  "pass": false,
+  "why": null,
+  "secs": 390,
+  "cost_api_usd": 0.9116908,
+  "verdict": [
+   "90 |       {==}"
+  ]
+ },
+ {
+  "task": "hard.factor_power_reduce.bend",
+  "pass": false,
+  "why": null,
+  "secs": 280,
+  "cost_api_usd": 0.6993481999999999,
+  "verdict": [
+   "60 |"
+  ]
+ },
+ {
+  "task": "hard.protocol_equivalence.bend",
+  "pass": false,
+  "why": null,
+  "secs": 670,
+  "cost_api_usd": 1.6229908,
+  "verdict": [
+   "77 |"
+  ]
+ },
+ {
+  "task": "hard.resource_certificate.bend",
+  "pass": false,
+  "why": null,
+  "secs": 272,
+  "cost_api_usd": 0.6158588,
+  "verdict": [
+   "77 |"
+  ]
+ },
+ {
+  "task": "hell.avl_leaderboard.bend",
+  "pass": false,
+  "why": null,
+  "secs": 719,
+  "cost_api_usd": 1.7626828,
+  "verdict": [
+   "280 |       {==}"
+  ]
+ },
+ {
+  "task": "hell.combinator_confluence.bend",
+  "pass": false,
+  "why": null,
+  "secs": 905,
+  "cost_api_usd": 1.6959348,
+  "verdict": [
+   "116 |"
+  ]
+ },
+ {
+  "task": "hell.glob_backtrack_match.bend",
+  "pass": false,
+  "why": null,
+  "secs": 431,
+  "cost_api_usd": 1.0682628,
+  "verdict": [
+   "314 |       absurd ea"
+  ]
+ },
+ {
+  "task": "hell.loop_normalization.bend",
+  "pass": false,
+  "why": null,
+  "secs": 359,
+  "cost_api_usd": 0.8545508,
+  "verdict": [
+   "109 |"
+  ]
+ }
+]
